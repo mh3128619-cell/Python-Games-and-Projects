@@ -1,4 +1,4 @@
-دsimport curses
+import curses
 import random
 
 
